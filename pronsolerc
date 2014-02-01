@@ -1,6 +1,6 @@
 set port /dev/ttyUSB0
 set last_bed_temperature 110.0
-set last_file_path /home/jesmar/Descargas/Firefox
+set last_file_path /home/jesmar/Dropbox/impresora3D/piezas
 set last_temperature 150.0
 set build_dimensions 200.00x200.00x250.00+0.00+0.00+0.00+0.00+0.00+0.00
 set sliceoptscommand ../slicers/slic3r/slic3r.sh
@@ -15,10 +15,10 @@ button 0 "ATX On" M80
 button 1 "ATX Off" M81
 set monitor False
 set last_extrusion 1
-set recentfiles ["/home/jesmar/Descargas/Firefox/Arm_Parts_Snap_Luxo_export.gcode", "/home/jesmar/Dropbox/impresora3D/piezas/lampara_pixar/Base_Snap_Luxo.gcode", "/home/jesmar/Dropbox/impresora3D/piezas/rostock-2012-06-29/bandejas2/bowden_adapt.gcode", "/home/jesmar/Proyectos/impresora3D/piezas/rostock-2012-06-29/bandejas2/extrusor.gcode", "/home/jesmar/Proyectos/impresora3D/piezas/rostock-2012-06-29/bandejas2/RS2x6.gcode"]
+set recentfiles ["/home/jesmar/Dropbox/impresora3D/piezas/bolis3marias.gcode", "/home/jesmar/Descargas/Firefox/Arm_Parts_Snap_Luxo_export.gcode", "/home/jesmar/Dropbox/impresora3D/piezas/lampara_pixar/Base_Snap_Luxo.gcode", "/home/jesmar/Dropbox/impresora3D/piezas/rostock-2012-06-29/bandejas2/bowden_adapt.gcode", "/home/jesmar/Proyectos/impresora3D/piezas/rostock-2012-06-29/bandejas2/extrusor.gcode"]
 set slic3rupdate True
 set viz3d False
 set tempgauges True
 set last_window_maximized False
 set last_window_width 1199
-set last_window_height 599
+set last_window_height 547
