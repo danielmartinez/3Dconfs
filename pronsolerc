@@ -15,10 +15,10 @@ button 0 "ATX On" M80
 button 1 "ATX Off" M81
 set monitor True
 set last_extrusion 10
-set recentfiles ["/home/jesmar/smallgearmod_fixed.gcode", "/home/jesmar/20mm_cube.gcode", "/home/jesmar/jonaskuehling_gregs-wade-v3_idler-only.gcode", "/home/jesmar/prueba.gcode", "/home/jesmar/Descargas/jonaskuehling_gregs-wade-v3_idler-only_export.gcode"]
+set recentfiles ["/home/jesmar/fimocutters.gcode", "/home/jesmar/Dropbox/exobrazo0.gcode", "/home/jesmar/fimocutter0.stl", "/home/jesmar/fimocutter0.gcode", "/home/jesmar/Descargas/hollow_cube.gcode"]
 set slic3rupdate True
 set viz3d False
 set tempgauges True
 set last_window_maximized False
-set last_window_width 1443
-set last_window_height 525
+set last_window_width 1278
+set last_window_height 553
